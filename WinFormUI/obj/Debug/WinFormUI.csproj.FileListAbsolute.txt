@@ -1,0 +1,13 @@
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\bin\Debug\WinFormUI.exe.config
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\bin\Debug\WinFormUI.exe
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\bin\Debug\WinFormUI.pdb
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\bin\Debug\DemoLibrary.dll
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\bin\Debug\DemoLibrary.pdb
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\obj\Debug\WinFormUI.exe
+D:\AspNetApps\DelegatesDemo-Start\WinFormUI\obj\Debug\WinFormUI.pdb
